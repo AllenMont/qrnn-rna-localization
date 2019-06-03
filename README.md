@@ -15,6 +15,8 @@ This repo contains the code and the report of a final project for the course **0
 ### Description
 **Quasi-Recurrent Neural Networks (QRNNs)** are used for the RNA sub-cellular localization (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5210605/).  
 QRNNs embrace the benefits of both convolutional and recurrent neural networks alike. QRNNs beat other networks such as LSTM in both accuracy and speed.  
+The followind figure depicts the difference between an LSTM layer and a QRNN layer. The first is totally sequential; the second can be parallelized with convolutions and the sequential part in much lighter.
+![layer](https://github.com/AllenMont/qrnn-rna-localization/blob/master/img/layer.PNG)
 
 A description of QRNNs can be found in https://arxiv.org/abs/1611.01576. The PyTorch implementation follows https://github.com/salesforce/pytorch-qrnn.
 
