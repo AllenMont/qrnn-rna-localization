@@ -1,0 +1,10 @@
+numpy
+pprint
+torch
+torchtext
+matplotlib
+seaborn
+random
+warnings
+time
+cupy
