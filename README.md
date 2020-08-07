@@ -5,7 +5,7 @@ This repo contains the code and the report of a final project for the course **0
 ### Authors
 - Alessandro Montemurro, DTU Compute
 - Léa Riera, DTU Compute
-- Niels Mølgaard Knudsen, DTU Bioengineering  
+- Niels MK, DTU Bioengineering  
 
 ### Supervisors
 - Alexander Rosenberg Johansen
